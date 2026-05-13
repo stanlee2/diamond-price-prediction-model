@@ -42,16 +42,10 @@ Libraries & Frameworks
 - Z:       Depth in mm
 
 ### ⚙️ Machine Learning Workflow
-Data Collection
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Feature Encoding & Scaling
-
-Model Training
-
-Model Evaluation
-
-Model Deployment with Streamlit
+- Data Collection
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Splitting, Feature Encoding & Scaling
+- Model Training
+- Model Evaluation
+- Model Deployment with Streamlit
